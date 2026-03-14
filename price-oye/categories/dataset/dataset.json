@@ -1,0 +1,1242 @@
+[
+  {
+    "back_camera": "48 + 48 + 48 MP",
+    "battery": "4832 mAh",
+    "display": "6.9 inches",
+    "name": "Apple Iphone 17 Pro Max",
+    "price": "Rs 527,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "48 MP",
+    "battery": "3149 mAh",
+    "display": "6.5 inches",
+    "name": "Apple Iphone 17 Air",
+    "price": "Rs 414,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "48 + 48 + 48 MP",
+    "battery": "3988 mAh",
+    "display": "6.3 inches",
+    "name": "Apple Iphone 17 Pro",
+    "price": "Rs 497,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "48MP + 12MP Ultra Wide",
+    "battery": "3561 mAh",
+    "display": 6.1,
+    "name": "Apple iPhone 16",
+    "price": "Rs 308,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "48MP + 48MP + 12 MP",
+    "battery": "4676 mAh",
+    "display": "6.9 Inches",
+    "name": "Apple iPhone 16 Pro Max",
+    "price": "Rs 521,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "48 MP + 12 MP",
+    "battery": "3349 mAh",
+    "display": "6.1 Inches",
+    "name": "Apple iPhone 15",
+    "price": "Rs 266,499",
+    "ram": "6 GB"
+  },
+  {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "327912.68 mAh",
+    "display": "6.1 inches",
+    "name": "Apple iPhone 14",
+    "price": "Rs 183,999",
+    "ram": "6 GB"
+  },
+  {
+    "back_camera": "48 + 48 MP",
+    "battery": "3692 mAh",
+    "display": "6.3 inches",
+    "name": "Apple Iphone 17",
+    "price": "Rs 387,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "48 MP",
+    "battery": "4005 mAh",
+    "display": "6.1 inch",
+    "name": "Apple iPhone 16e",
+    "price": "Rs 254,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "48MP + 12MP",
+    "battery": "4600 mAh",
+    "display": "6.7 Inches",
+    "name": "Apple iPhone 16 Plus",
+    "price": "Rs 327,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "48MP + 48MP + 12MP",
+    "battery": "3577 mAh",
+    "display": "6.3 Inches",
+    "name": "Apple iPhone 16 Pro",
+    "price": "Rs 366,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "48 MP + 12 MP + 12 MP",
+    "battery": "4422 mAh",
+    "display": "6.7 Inches",
+    "name": "Apple iPhone 15 Pro Max",
+    "price": "Rs 392,000",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "12 MP + 12MP",
+    "battery": "3240 mAh",
+    "display": "6.1 Inches",
+    "name": "Apple iPhone 13",
+    "price": "Rs 167,499",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "200.0 MP + 50.0 MP + 50.0 MP + 10.0 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 inches",
+    "name": "Samsung Galaxy S26 Ultra",
+    "price": "Rs 489,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "4900 mAh",
+    "display": "169.1mm",
+    "name": "Samsung Galaxy S26 Plus",
+    "price": "Rs 364,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50.0 MP + 10.0 MP + 12.0 MP",
+    "battery": "4300 mAh",
+    "display": "159.3mm (6.3",
+    "name": "Samsung Galaxy S26",
+    "price": "Rs 299,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 5 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy A17",
+    "price": "Rs 51,500",
+    "ram": "6GB / 8GB"
+  },
+  {
+    "back_camera": "50MP + 12MP + 5MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy A56 5G",
+    "price": "Rs 113,999",
+    "ram": "8GB / 12GB RAM"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 12 MP",
+    "battery": "4900 mAh",
+    "display": "6.7 inches",
+    "name": "Samsung Galaxy S25 FE",
+    "price": "Rs 179,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy A07",
+    "price": "Rs 25,700",
+    "ram": "4GB/6GB"
+  },
+  {
+    "back_camera": "50.0 MP + 8.0 MP + 5.0 MP",
+    "battery": "5000 mAh",
+    "display": 6.7,
+    "name": "Samsung Galaxy A36 5G",
+    "price": "Rs 99,699",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 inches",
+    "name": "Samsung Galaxy A26 5G",
+    "price": "Rs 71,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "200.0 MP + 50.0 MP + 50.0 MP + 10.0 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 Inches",
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": "Rs 352,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50MP + 10MP + 12MP",
+    "battery": "4000 mAh",
+    "display": "6.2 Inches",
+    "name": "Samsung Galaxy S25",
+    "price": "Rs 259,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 12MP + 8MP",
+    "battery": "4700 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy S24 FE",
+    "price": "Rs 166,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "12 MP + 50 MP + 10 MP",
+    "battery": "4400 mAh",
+    "display": "7.6 inches",
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": "Rs 325,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 12 MP",
+    "battery": "4000 mAh",
+    "display": "6.7 inches",
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": "Rs 304,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "12 MP + 50 MP + 10 MP",
+    "battery": "4400 mAh",
+    "display": "7.6 inches",
+    "name": "Samsung Galaxy Z Fold 6",
+    "price": "Rs 485,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
+    "name": "Samsung Galaxy S24 Ultra (12GB-1TB)",
+    "price": "Rs 335,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
+    "name": "Samsung Galaxy A35 5G",
+    "price": "Rs 83,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP + 12 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
+    "name": "Samsung Galaxy A55 5G",
+    "price": "Rs 94,500",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": "Rs 316,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 10 MP + 12 MP",
+    "battery": "4000 mAh",
+    "display": "6.2 Inches",
+    "name": "Samsung Galaxy S24",
+    "price": "Rs 208,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
+    "name": "Samsung Galaxy A25",
+    "price": "Rs 59,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 12 MP",
+    "battery": "4500 mAh",
+    "display": "6.4 inches",
+    "name": "Samsung Galaxy S23 FE",
+    "price": "Rs 119,499",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.7 inches",
+    "name": "Samsung Galaxy Z Flip 5",
+    "price": "Rs 224,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "12MP + 50MP + 5MP",
+    "battery": "5000 mAh",
+    "display": "6.4 inches",
+    "name": "Samsung Galaxy A54 5G",
+    "price": "Rs 79,500",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "200 MP + 10 MP + 10 MP + 12 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 inches",
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": "Rs 269,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": "Rs 184,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "50 MP + 10 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.1 inches",
+    "name": "Samsung Galaxy S22",
+    "price": "Rs 170,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "12 MP + 12 MP + 08 MP",
+    "battery": "4500 mAh",
+    "display": "6.4 Inches",
+    "name": "Samsung Galaxy S21 FE",
+    "price": "Rs 99,999",
+    "ram": "6/8 GB"
+  },
+  {
+    "back_camera": "200 MP + 50 MP + 50 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 Inches",
+    "name": "Samsung Galaxy S25 Ultra (12GB-256GB)",
+    "price": "Rs 339,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy A06",
+    "price": "Rs 22,499",
+    "ram": "4/6 GB"
+  },
+  {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
+    "name": "Samsung Galaxy S24 Ultra (12GB-256GB)",
+    "price": "Rs 314,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "48 MP + 8 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
+    "name": "Samsung Galaxy A34",
+    "price": "Rs 68,199",
+    "ram": "6/8 GB"
+  },
+  {
+    "back_camera": "108 MP + 12 MP + 5 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
+    "name": "Samsung Galaxy A73",
+    "price": "Rs 91,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "5200 mAh",
+    "display": "6.78 inches",
+    "name": "Tecno Camon 40 Pro",
+    "price": "Rs 64,999",
+    "ram": "16 GB (8GB + 8GB EXTENDED)"
+  },
+  {
+    "back_camera": "13MP",
+    "battery": "5000 mAh",
+    "display": "120Hz 6.75'' Dot Notch Screen",
+    "name": "Tecno Spark Go 3",
+    "price": "Rs 25,300",
+    "ram": "4GB (4+4 EXTENDABLE)"
+  },
+  {
+    "back_camera": "50 MP + AI",
+    "battery": "5200 mAh",
+    "display": "6.6 inches",
+    "name": "Tecno spark 40",
+    "price": "Rs 37,600",
+    "ram": "6 GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "5200 mAh",
+    "display": "6.78 inches",
+    "name": "Tecno Spark 40 Pro Plus",
+    "price": "Rs 60,400",
+    "ram": "8GB + 8GB EXTENDED RAM"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "5200 mAh",
+    "display": "6.78''",
+    "name": "Tecno Spark 40 pro",
+    "price": "Rs 50,700",
+    "ram": "8GB + 8GB EXTENDED RAM"
+  },
+  {
+    "back_camera": "13 MP",
+    "battery": "6000 mAh",
+    "display": "6.67''",
+    "name": "Tecno Spark 40C",
+    "price": "Rs 29,799",
+    "ram": "4 GB/8 GB"
+  },
+  {
+    "back_camera": "13MP",
+    "battery": "5000 mAh",
+    "display": "6.67'' Hole Screen",
+    "name": "Tecno Spark Go 2",
+    "price": "Rs 25,799",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "108 MP",
+    "battery": "5000 mAh",
+    "display": "6.78 inches",
+    "name": "Tecno SPARK 30 Pro",
+    "price": "Rs 46,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "108MP + 2MP",
+    "battery": "5000 mAh",
+    "display": 6.78,
+    "name": "Tecno Spark 20 Pro Plus",
+    "price": "Rs 59,999",
+    "ram": "16GB (8GB + 8GB EXTENDABLE RAM)"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "7000 mAh",
+    "display": "6.78 Inches",
+    "name": "Tecno Pova 6 Neo",
+    "price": "Rs 45,999",
+    "ram": "16GB (8GB+ 8GB EXTENDED RAM)"
+  },
+  {
+    "back_camera": "50MP + 2MP AI Cam",
+    "battery": "5000 mAh",
+    "display": "6.78 Inches",
+    "name": "Tecno Camon 30",
+    "price": "Rs 49,999",
+    "ram": "24GB RAM (12GB+12GB EXTENDED)"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50 MP ZEISS OIS Main Camera: AF & OIS, f/1.88, FOV 84°, 6P lens",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
+    "name": "Vivo V70",
+    "price": "Rs 153,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "6.74 Inches",
+    "name": "Vivo Y11d",
+    "price": "Rs 39,599",
+    "ram": "4/6 GB"
+  },
+  {
+    "back_camera": "8 MP",
+    "battery": "6500 mAh",
+    "display": "6.74 Inches",
+    "name": "Vivo Y05",
+    "price": "Rs 30,999",
+    "ram": "8GB (4GB + 4GB )"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6510 mAh",
+    "display": "6.78 Inches",
+    "name": "Vivo X300 Pro",
+    "price": "Rs 314,999",
+    "ram": "16GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "Wh",
+    "display": "17.20 cm (6.77″)",
+    "name": "VIVO V60 Lite",
+    "price": "Rs 72,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "17.20 cm (6.77″)",
+    "name": "VIVO V60 Lite 5G",
+    "price": "Rs 88,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "6.68 inches",
+    "name": "Vivo Y21d",
+    "price": "Rs 45,999",
+    "ram": "6GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "17.20 cm",
+    "name": "Vivo V60",
+    "price": "Rs 134,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 + 2 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
+    "name": "Vivo Y400",
+    "price": "Rs 62,499",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50 MP + 50MP + 50 MP",
+    "battery": "6000 mAh",
+    "display": "Main screen: 8.03″ (20.38 cm) Cover screen: 6.53″ (16.58 cm)",
+    "name": "Vivo X Fold 5",
+    "price": "Rs 419,999",
+    "ram": "16GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 50 MP",
+    "battery": "6500 mAh",
+    "display": "6.31 Inches",
+    "name": "Vivo X200 FE",
+    "price": "Rs 194,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "6500 mAh",
+    "display": "6.68 inches",
+    "name": "Vivo Y29",
+    "price": "Rs 54,299",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "13 MP + 0.08 MP",
+    "battery": "5500 mAh",
+    "display": "6.74 inches",
+    "name": "Vivo Y04",
+    "price": "Rs 32,999",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "Rear 50 MP + 8 MP",
+    "battery": "6500 mAh",
+    "display": 6.77,
+    "name": "Vivo V50 Lite 5G",
+    "price": "Rs 82,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 50 MP",
+    "battery": "6000 mAh",
+    "display": "6.77 inches",
+    "name": "Vivo V50",
+    "price": "Rs 124,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "200MP + 50MP + 50MP",
+    "battery": "6000 mAh",
+    "display": "6.78 inches",
+    "name": "Vivo X200 Pro",
+    "price": "Rs 278,499",
+    "ram": "16GB + 16GB EXPANDABLE RAM (LPDDR5X RAM)"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
+    "name": "Vivo Y200 4G",
+    "price": "Rs 52,499",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6330 mAh",
+    "display": 6.3,
+    "name": "Xiaomi 17",
+    "price": "Rs 319,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6000 mAh",
+    "display": "6.9 inches",
+    "name": "Xiaomi 17 Ultra",
+    "price": "Rs 479,999",
+    "ram": "16GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.9 Inch Display",
+    "name": "Xiaomi Poco C85",
+    "price": "Rs 42,199",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP AI Dual Camera, 5P lens, f/1.8, Auxiliary lens",
+    "battery": "7000 mAh",
+    "display": "6.9 Inch Display",
+    "name": "Xiaomi Redmi 15",
+    "price": "Rs 42,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.9 inches",
+    "name": "Xiaomi Redmi 15C",
+    "price": "Rs 31,499",
+    "ram": "4/6 GB"
+  },
+  {
+    "back_camera": "32MP",
+    "battery": "5200 mAh",
+    "display": 6.88,
+    "name": "Xiaomi Redmi A5",
+    "price": "Rs 24,499",
+    "ram": "4GB/4GB"
+  },
+  {
+    "back_camera": "200MP + 50MP + 50MP + 50MP",
+    "battery": "5410 mAh",
+    "display": "6.73 inches",
+    "name": "Xiaomi 15 Ultra",
+    "price": "Rs 372,999",
+    "ram": "16GB (LPDDR5X)"
+  },
+  {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5500 mAh",
+    "display": "6.67 Inches",
+    "name": "Xiaomi Redmi Note 14 Pro",
+    "price": "Rs 69,999",
+    "ram": "8/12 GB"
+  },
+  {
+    "back_camera": "108MP+2MP+2MP",
+    "battery": "5500 mAh",
+    "display": "6.7 Inches",
+    "name": "Xiaomi Redmi Note 14",
+    "price": "Rs 48,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "5160 mAh",
+    "display": "6.88 inches",
+    "name": "Xiaomi Poco C75",
+    "price": "Rs 36,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP + 0.08 MP",
+    "battery": "5160 mAh",
+    "display": 6.88,
+    "name": "Xiaomi Redmi 14C",
+    "price": "Rs 31,999",
+    "ram": "4/6 GB"
+  },
+  {
+    "back_camera": "108 MP + 2 MP",
+    "battery": "5030 mAh",
+    "display": "6.79 Inches",
+    "name": "Xiaomi Redmi 13",
+    "price": "Rs 37,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "108MP+8MP+2MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
+    "name": "Xiaomi Redmi Note 13",
+    "price": "Rs 49,999",
+    "ram": "6GB, 8GB (EXPANDABLE STORAGE UP TO 1TB)"
+  },
+  {
+    "back_camera": "50 MP + 50 MP + 50 MP",
+    "battery": "4610 mAh",
+    "display": "6.3 Inches",
+    "name": "Xiaomi 14",
+    "price": "Rs 302,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
+    "name": "Xiaomi Redmi Note 12",
+    "price": "Rs 41,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "5500 mAh",
+    "display": "6.83 inches",
+    "name": "Xiaomi 15T",
+    "price": "Rs 169,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 50 MP + 12 MP",
+    "battery": "5500 mAh",
+    "display": "6.83 Inches",
+    "name": "Xiaomi 15T Pro",
+    "price": "Rs 234,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5110 mAh",
+    "display": "6.7 Inch",
+    "name": "Xiaomi Redmi Note 14 Pro Plus",
+    "price": "Rs 125,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50MP + 8MP",
+    "battery": "6000 mAh",
+    "display": "6.67 inches",
+    "name": "Xiaomi Poco X7 pro",
+    "price": "Rs 137,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
+    "name": "Poco F6",
+    "price": "Rs 131,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
+    "name": "Poco F6 Pro",
+    "price": "Rs 169,999",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "8 MP AI Dual Camera",
+    "battery": "5000 mAh",
+    "display": "6.71 inches",
+    "name": "Xiaomi Redmi A3x",
+    "price": "Rs 19,899",
+    "ram": "3 GB"
+  },
+  {
+    "back_camera": "8MP AI Dual Camera",
+    "battery": "5000 mAh",
+    "display": "6.71 Inches",
+    "name": "Xiaomi Redmi A3",
+    "price": "Rs 21,999",
+    "ram": "4 GB"
+  },
+  {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5000 mAh",
+    "display": 6.67,
+    "name": "Xiaomi Redmi Note 13 Pro Plus",
+    "price": "Rs 126,499",
+    "ram": "8GB,12GB"
+  },
+  {
+    "back_camera": "64MP+8MP+2MP triple camera",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
+    "name": "Poco X6 Pro 5G",
+    "price": "Rs 122,099",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "64MP+8MP+2MP triple camera",
+    "battery": "5000 mAh",
+    "display": 6.67,
+    "name": "Poco M6 Pro",
+    "price": "Rs 83,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.74 inches",
+    "name": "Xiaomi Redmi 13C",
+    "price": "Rs 29,499",
+    "ram": "128GB 6GB RAM , 128GB 4GB RAM"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.79 Inches",
+    "name": "Xiaomi Redmi 12",
+    "price": "Rs 33,499",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "8 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.52 Inches",
+    "name": "Xiaomi Redmi A2 Plus",
+    "price": "Rs 19,999",
+    "ram": "3 GB"
+  },
+  {
+    "back_camera": "50 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.71 inches",
+    "name": "Xiaomi Redmi 12C",
+    "price": "Rs 22,999",
+    "ram": "4GB RAM"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "7000 mAh",
+    "display": "6.8 Inches",
+    "name": "Realme C85 Pro",
+    "price": "Rs 52,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "7000 mAh",
+    "display": "6.8 inches",
+    "name": "Realme C85",
+    "price": "Rs 47,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP Selfie AI Camera",
+    "battery": "7000 mAh",
+    "display": "6.57inch",
+    "name": "Realme 15T 5G",
+    "price": "Rs 78,999",
+    "ram": "8 GB"
+  },
+  {
+    "back_camera": "50MP Sony IMX896 OIS Camera",
+    "battery": "7000 mAh",
+    "display": "6.8 inches",
+    "name": "Realme 15 pro",
+    "price": "Rs 141,499",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "13 MP",
+    "battery": "6300 mAh",
+    "display": "6.74 Inches",
+    "name": "Realme Note 70",
+    "price": "Rs 31,199",
+    "ram": "4GB /6GB"
+  },
+  {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "7000 mAh",
+    "display": "6.8 Inches",
+    "name": "Realme GT 7T",
+    "price": "Rs 164,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP + 2MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
+    "name": "Realme 14T 5G",
+    "price": "Rs 67,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP + 2MP OIS",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
+    "name": "Realme 14 5G",
+    "price": "Rs 85,499",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6300 mAh",
+    "display": "6.72 Inches",
+    "name": "Realme C71",
+    "price": "Rs 36,499",
+    "ram": "6/8 GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "5600 mAh",
+    "display": 6.67,
+    "name": "Realme C75x",
+    "price": "Rs 37,999",
+    "ram": "6/8 GB"
+  },
+  {
+    "back_camera": "8MP + Flicker",
+    "battery": "5000 mAh",
+    "display": "6.74 Inch",
+    "name": "Realme Note 60x",
+    "price": "Rs 20,999",
+    "ram": "4/8GB RAM (3GB+5GB EXPANDABLE DYNAMIC RAM)"
+  },
+  {
+    "back_camera": "50 MP + 2 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
+    "name": "Realme C25Y",
+    "price": "Rs 23,499",
+    "ram": "4 GB"
+  },
+  {
+    "back_camera": "50MP + 8MP",
+    "battery": "7000 mAh",
+    "display": "6.77inch",
+    "name": "Realme 15 5G",
+    "price": "Rs 105,499",
+    "ram": "12 GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.72 Inches",
+    "name": "Realme C75",
+    "price": "Rs 38,499",
+    "ram": "8 GB + 16GB DYNAMIC RAM"
+  },
+  {
+    "back_camera": "50MP Sony LYT-600 OIS Camera + 8MP ultra-wide",
+    "battery": "5000 mAh",
+    "display": "6.67inch",
+    "name": "Realme 13+ 5G",
+    "price": "Rs 75,999",
+    "ram": "12 GB +14 GB DYNAMIC RAM"
+  },
+  {
+    "back_camera": "32 MP",
+    "battery": "5000 mAh",
+    "display": 6.74,
+    "name": "Realme Note 60",
+    "price": "Rs 21,999",
+    "ram": "4GB + UP TO 8GB DYNAMIC RAM"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.7 inches",
+    "name": "Realme 12+ 5G",
+    "price": "Rs 66,499",
+    "ram": "16GB (8+8) RAM"
+  },
+  {
+    "back_camera": "8 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
+    "name": "Realme C11 2021",
+    "price": "Rs 18,299",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "7000 mAh",
+    "display": 6.75,
+    "name": "Oppo A6",
+    "price": "Rs 55,699",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "7000 mAh",
+    "display": "6.75 inches",
+    "name": "Oppo A6s",
+    "price": "Rs 68,499",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
+    "name": "OPPO Reno 15",
+    "price": "Rs 159,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
+    "name": "Oppo Reno 15F",
+    "price": "Rs 114,299",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "200MP",
+    "battery": "6200 mAh",
+    "display": "6.32 inches",
+    "name": "Oppo Reno 15 Pro",
+    "price": "Rs 229,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "13MP",
+    "battery": "6500 mAh",
+    "display": "6.75 inches",
+    "name": "Oppo A6X",
+    "price": "Rs 29,299",
+    "ram": "6 GB"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "7000 mAh",
+    "display": "6.57 inches",
+    "name": "Oppo A6 Pro",
+    "price": "Rs 83,499",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "8 MP + AI",
+    "battery": "5100 mAh",
+    "display": 6.67,
+    "name": "Oppo A5i",
+    "price": "Rs 27,999",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "Wide angle 50 MP + Ultra-wide angle 8MP + Telephoto 50 MP",
+    "battery": "5800 mAh",
+    "display": "6.83 inches",
+    "name": "Oppo Reno 13 Pro",
+    "price": "Rs 146,499",
+    "ram": "12GB LPDDR5X"
+  },
+  {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5600 mAh",
+    "display": "6.59 Inches",
+    "name": "Oppo Reno 13",
+    "price": "Rs 118,499",
+    "ram": "12 GB LPDDR5X"
+  },
+  {
+    "back_camera": "50 MP + 8MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
+    "name": "Oppo Reno 12F 5G",
+    "price": "Rs 69,999",
+    "ram": "12GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.75 inches",
+    "name": "Oppo A6K",
+    "price": "Rs 48,200",
+    "ram": "4/6/8GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 inches",
+    "name": "Oppo A5",
+    "price": "Rs 39,799",
+    "ram": "6 GB"
+  },
+  {
+    "back_camera": "50MP + 8MP + 2MP",
+    "battery": "6000 mAh",
+    "display": "6.57 inches",
+    "name": "Oppo Reno 14F 5G",
+    "price": "Rs 94,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "32MP; f/1.8",
+    "battery": "6000 mAh",
+    "display": 6.67,
+    "name": "Oppo A5x",
+    "price": "Rs 29,999",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5800 mAh",
+    "display": 6.67,
+    "name": "Oppo A5 Pro",
+    "price": "Rs 50,499",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "back_camera",
+    "battery": "battery",
+    "display": "display",
+    "name": "name",
+    "price": "price",
+    "ram": "ram"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "5160 mAh",
+    "display": "6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)",
+    "name": "Infinix Hot 60 Pro Plus",
+    "price": "Rs 59,999",
+    "ram": "8GB RAM"
+  },
+  {
+    "back_camera": "50 MP",
+    "battery": "5160 mAh",
+    "display": "6.8 Inches",
+    "name": "Infinix Hot 60 Pro",
+    "price": "Rs 47,999",
+    "ram": "8GB"
+  },
+  {
+    "back_camera": "50MP",
+    "battery": "5160 mAh",
+    "display": "6.7 Inches",
+    "name": "Infinix Hot 60i",
+    "price": "Rs 36,999",
+    "ram": "6GB / 8GB"
+  },
+  {
+    "back_camera": "8 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
+    "name": "Infinix Smart 10 Plus",
+    "price": "Rs 28,449",
+    "ram": "4GB"
+  },
+  {
+    "back_camera": "8MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
+    "name": "Infinix Smart 10",
+    "price": "Rs 25,399",
+    "ram": "4GB + 4GB EXTENDABLE"
+  },
+  {
+    "back_camera": "50MP OIS+8MP",
+    "battery": "5200 mAh",
+    "display": "6.78 INCHES",
+    "name": "Infinix Note 50 Pro",
+    "price": "Rs 79,999",
+    "ram": "12GB RAM + 12GB EXPANDABLE RAM"
+  },
+  {
+    "back_camera": "50 MP OIS + 2 MP",
+    "battery": "5200 mAh",
+    "display": "6.78 Inches",
+    "name": "Infinix Note 50",
+    "price": "Rs 65,999",
+    "ram": "8GB RAM + 8GB RAM EXPANDABLE"
+  },
+  {
+    "back_camera": "108 MP + 50MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.78 Inches",
+    "name": "Infinix Zero 40 4G",
+    "price": "Rs 59,999",
+    "ram": "8GB + 8GB EXTENDED RAM"
+  },
+  {
+    "back_camera": "13 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
+    "name": "Infinix Smart 10 HD",
+    "price": "Rs 21,549",
+    "ram": "2GB"
+  },
+  {
+    "back_camera": "50 MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.78 inches",
+    "name": "Infinix Hot 50 Pro Plus",
+    "price": "Rs 54,500",
+    "ram": "8GB+ 8GB EXTENDED RAM"
+  }
+]
