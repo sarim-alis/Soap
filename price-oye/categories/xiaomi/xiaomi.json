@@ -1,122 +1,242 @@
 [
   {
+    "back_camera": "50MP",
+    "battery": "6330 mAh",
+    "display": "6.3",
     "name": "Xiaomi 17",
-    "price": "Rs 319,999"
+    "price": "Rs 319,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6000 mAh",
+    "display": "6.9 inches",
     "name": "Xiaomi 17 Ultra",
-    "price": "Rs 479,999"
+    "price": "Rs 479,999",
+    "ram": "16GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.9 Inch Display",
     "name": "Xiaomi Poco C85",
-    "price": "Rs 42,199"
+    "price": "Rs 42,199",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP AI Dual Camera, 5P lens, f/1.8, Auxiliary lens",
+    "battery": "7000 mAh",
+    "display": "6.9 Inch Display",
     "name": "Xiaomi Redmi 15",
-    "price": "Rs 42,999"
+    "price": "Rs 42,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.9 inches",
     "name": "Xiaomi Redmi 15C",
-    "price": "Rs 31,499"
+    "price": "Rs 31,499",
+    "ram": "4/6 GB"
   },
   {
+    "back_camera": "32MP",
+    "battery": "5200 mAh",
+    "display": "6.88",
     "name": "Xiaomi Redmi A5",
-    "price": "Rs 24,499"
+    "price": "Rs 24,499",
+    "ram": "4GB/4GB"
   },
   {
+    "back_camera": "200MP + 50MP + 50MP + 50MP",
+    "battery": "5410 mAh",
+    "display": "6.73 inches",
     "name": "Xiaomi 15 Ultra",
-    "price": "Rs 372,999"
+    "price": "Rs 372,999",
+    "ram": "16GB (LPDDR5X)"
   },
   {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5500 mAh",
+    "display": "6.67 Inches",
     "name": "Xiaomi Redmi Note 14 Pro",
-    "price": "Rs 69,999"
+    "price": "Rs 69,999",
+    "ram": "8/12 GB"
   },
   {
+    "back_camera": "108MP+2MP+2MP",
+    "battery": "5500 mAh",
+    "display": "6.7 Inches",
     "name": "Xiaomi Redmi Note 14",
-    "price": "Rs 48,999"
+    "price": "Rs 48,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "5160 mAh",
+    "display": "6.88 inches",
     "name": "Xiaomi Poco C75",
-    "price": "Rs 36,999"
+    "price": "Rs 36,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP + 2 MP + 0.08 MP",
+    "battery": "5160 mAh",
+    "display": "6.88",
     "name": "Xiaomi Redmi 14C",
-    "price": "Rs 31,999"
+    "price": "Rs 31,999",
+    "ram": "4/6 GB"
   },
   {
+    "back_camera": "108 MP + 2 MP",
+    "battery": "5030 mAh",
+    "display": "6.79 Inches",
     "name": "Xiaomi Redmi 13",
-    "price": "Rs 37,999"
+    "price": "Rs 37,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "108MP+8MP+2MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
     "name": "Xiaomi Redmi Note 13",
-    "price": "Rs 49,999"
+    "price": "Rs 49,999",
+    "ram": "6GB, 8GB (EXPANDABLE STORAGE UP TO 1TB)"
   },
   {
+    "back_camera": "50 MP + 50 MP + 50 MP",
+    "battery": "4610 mAh",
+    "display": "6.3 Inches",
     "name": "Xiaomi 14",
-    "price": "Rs 302,999"
+    "price": "Rs 302,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
     "name": "Xiaomi Redmi Note 12",
-    "price": "Rs 41,999"
+    "price": "Rs 41,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "5500 mAh",
+    "display": "6.83 inches",
     "name": "Xiaomi 15T",
-    "price": "Rs 169,999"
+    "price": "Rs 169,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 50 MP + 12 MP",
+    "battery": "5500 mAh",
+    "display": "6.83 Inches",
     "name": "Xiaomi 15T Pro",
-    "price": "Rs 234,999"
+    "price": "Rs 234,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5110 mAh",
+    "display": "6.7 Inch",
     "name": "Xiaomi Redmi Note 14 Pro Plus",
-    "price": "Rs 125,999"
+    "price": "Rs 125,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50MP + 8MP",
+    "battery": "6000 mAh",
+    "display": "6.67 inches",
     "name": "Xiaomi Poco X7 pro",
-    "price": "Rs 137,999"
+    "price": "Rs 137,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
     "name": "Poco F6",
-    "price": "Rs 131,999"
+    "price": "Rs 131,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
     "name": "Poco F6 Pro",
-    "price": "Rs 169,999"
+    "price": "Rs 169,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "8 MP AI Dual Camera",
+    "battery": "5000 mAh",
+    "display": "6.71 inches",
     "name": "Xiaomi Redmi A3x",
-    "price": "Rs 19,899"
+    "price": "Rs 19,899",
+    "ram": "3 GB"
   },
   {
+    "back_camera": "8MP AI Dual Camera",
+    "battery": "5000 mAh",
+    "display": "6.71 Inches",
     "name": "Xiaomi Redmi A3",
-    "price": "Rs 21,999"
+    "price": "Rs 21,999",
+    "ram": "4 GB"
   },
   {
+    "back_camera": "200MP+8MP+2MP",
+    "battery": "5000 mAh",
+    "display": "6.67",
     "name": "Xiaomi Redmi Note 13 Pro Plus",
-    "price": "Rs 126,499"
+    "price": "Rs 126,499",
+    "ram": "8GB,12GB"
   },
   {
+    "back_camera": "64MP+8MP+2MP triple camera",
+    "battery": "5000 mAh",
+    "display": "6.67 Inches",
     "name": "Poco X6 Pro 5G",
-    "price": "Rs 122,099"
+    "price": "Rs 122,099",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "64MP+8MP+2MP triple camera",
+    "battery": "5000 mAh",
+    "display": "6.67",
     "name": "Poco M6 Pro",
-    "price": "Rs 83,999"
+    "price": "Rs 83,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 2 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.74 inches",
     "name": "Xiaomi Redmi 13C",
-    "price": "Rs 29,499"
+    "price": "Rs 29,499",
+    "ram": "128GB 6GB RAM , 128GB 4GB RAM"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.79 Inches",
     "name": "Xiaomi Redmi 12",
-    "price": "Rs 33,499"
+    "price": "Rs 33,499",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "8 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.52 Inches",
     "name": "Xiaomi Redmi A2 Plus",
-    "price": "Rs 19,999"
+    "price": "Rs 19,999",
+    "ram": "3 GB"
   },
   {
+    "back_camera": "50 MP + 0.08 MP",
+    "battery": "5000 mAh",
+    "display": "6.71 inches",
     "name": "Xiaomi Redmi 12C",
-    "price": "Rs 22,999"
+    "price": "Rs 22,999",
+    "ram": "4GB RAM"
   }
 ]
