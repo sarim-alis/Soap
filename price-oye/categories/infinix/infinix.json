@@ -1,42 +1,82 @@
 [
   {
+    "back_camera": "50 MP",
+    "battery": "5160 mAh",
+    "display": "6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)",
     "name": "Infinix Hot 60 Pro Plus",
-    "price": "Rs 59,999"
+    "price": "Rs 59,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "5160 mAh",
+    "display": "6.8 Inches",
     "name": "Infinix Hot 60 Pro",
-    "price": "Rs 47,999"
+    "price": "Rs 47,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "5160 mAh",
+    "display": "6.7 Inches",
     "name": "Infinix Hot 60i",
-    "price": "Rs 36,999"
+    "price": "Rs 36,999",
+    "ram": "6GB / 8GB"
   },
   {
+    "back_camera": "8 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
     "name": "Infinix Smart 10 Plus",
-    "price": "Rs 28,449"
+    "price": "Rs 28,449",
+    "ram": "4GB"
   },
   {
+    "back_camera": "8MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
     "name": "Infinix Smart 10",
-    "price": "Rs 25,399"
+    "price": "Rs 25,399",
+    "ram": "4GB + 4GB EXTENDABLE"
   },
   {
+    "back_camera": "50MP OIS+8MP",
+    "battery": "5200 mAh",
+    "display": "6.78 INCHES",
     "name": "Infinix Note 50 Pro",
-    "price": "Rs 79,999"
+    "price": "Rs 79,999",
+    "ram": "12GB RAM + 12GB EXPANDABLE RAM"
   },
   {
+    "back_camera": "50 MP OIS + 2 MP",
+    "battery": "5200 mAh",
+    "display": "6.78 Inches",
     "name": "Infinix Note 50",
-    "price": "Rs 65,999"
+    "price": "Rs 65,999",
+    "ram": "8GB RAM + 8GB RAM EXPANDABLE"
   },
   {
+    "back_camera": "108 MP + 50MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.78 Inches",
     "name": "Infinix Zero 40 4G",
-    "price": "Rs 59,999"
+    "price": "Rs 59,999",
+    "ram": "8GB + 8GB EXTENDED RAM"
   },
   {
+    "back_camera": "13 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
     "name": "Infinix Smart 10 HD",
-    "price": "Rs 21,549"
+    "price": "Rs 21,549",
+    "ram": "2GB"
   },
   {
+    "back_camera": "50 MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.78 inches",
     "name": "Infinix Hot 50 Pro Plus",
-    "price": "Rs 54,500"
+    "price": "Rs 54,500",
+    "ram": "8GB+ 8GB EXTENDED RAM"
   }
 ]
