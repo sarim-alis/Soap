@@ -8,7 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def scrape_priceoye_by_category():
 
-    url   = "https://priceoye.pk/mobiles/xiaomi"
+    url   = "https://priceoye.pk/mobiles/tecno"
+    # url   = "https://priceoye.pk/mobiles/xiaomi"
     # url   = "https://priceoye.pk/mobiles/realme"
     # url = "https://priceoye.pk/mobiles/samsung"
     # url = "https://priceoye.pk/mobiles/apple"
