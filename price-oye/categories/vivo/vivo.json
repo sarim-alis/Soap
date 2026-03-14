@@ -1,70 +1,138 @@
 [
   {
+    "back_camera": "50 MP ZEISS OIS Main Camera: AF & OIS, f/1.88, FOV 84\u00b0, 6P lens",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
     "name": "Vivo V70",
-    "price": "Rs 153,999"
+    "price": "Rs 153,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "6.74 Inches",
     "name": "Vivo Y11d",
-    "price": "Rs 39,599"
+    "price": "Rs 39,599",
+    "ram": "4/6 GB"
   },
   {
+    "back_camera": "8 MP",
+    "battery": "6500 mAh",
+    "display": "6.74 Inches",
     "name": "Vivo Y05",
-    "price": "Rs 30,999"
+    "price": "Rs 30,999",
+    "ram": "8GB (4GB + 4GB )"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6510 mAh",
+    "display": "6.78 Inches",
     "name": "Vivo X300 Pro",
-    "price": "Rs 314,999"
+    "price": "Rs 314,999",
+    "ram": "16GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "Wh",
+    "display": "17.20 cm (6.77\u2033)",
     "name": "VIVO V60 Lite",
-    "price": "Rs 72,999"
+    "price": "Rs 72,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "17.20 cm (6.77\u2033)",
     "name": "VIVO V60 Lite 5G",
-    "price": "Rs 88,999"
+    "price": "Rs 88,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6500 mAh",
+    "display": "6.68 inches",
     "name": "Vivo Y21d",
-    "price": "Rs 45,999"
+    "price": "Rs 45,999",
+    "ram": "6GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "17.20 cm",
     "name": "Vivo V60",
-    "price": "Rs 134,999"
+    "price": "Rs 134,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 + 2 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
     "name": "Vivo Y400",
-    "price": "Rs 62,499"
+    "price": "Rs 62,499",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50 MP + 50MP + 50 MP",
+    "battery": "6000 mAh",
+    "display": "Main screen: 8.03\u2033 (20.38 cm) Cover screen: 6.53\u2033 (16.58 cm)",
     "name": "Vivo X Fold 5",
-    "price": "Rs 419,999"
+    "price": "Rs 419,999",
+    "ram": "16GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 50 MP",
+    "battery": "6500 mAh",
+    "display": "6.31 Inches",
     "name": "Vivo X200 FE",
-    "price": "Rs 194,999"
+    "price": "Rs 194,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "6500 mAh",
+    "display": "6.68 inches",
     "name": "Vivo Y29",
-    "price": "Rs 54,299"
+    "price": "Rs 54,299",
+    "ram": "8GB"
   },
   {
+    "back_camera": "13 MP + 0.08 MP",
+    "battery": "5500 mAh",
+    "display": "6.74 inches",
     "name": "Vivo Y04",
-    "price": "Rs 32,999"
+    "price": "Rs 32,999",
+    "ram": "4GB"
   },
   {
+    "back_camera": "Rear 50 MP + 8 MP",
+    "battery": "6500 mAh",
+    "display": "6.77",
     "name": "Vivo V50 Lite 5G",
-    "price": "Rs 82,999"
+    "price": "Rs 82,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 50 MP",
+    "battery": "6000 mAh",
+    "display": "6.77 inches",
     "name": "Vivo V50",
-    "price": "Rs 124,999"
+    "price": "Rs 124,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "200MP + 50MP + 50MP",
+    "battery": "6000 mAh",
+    "display": "6.78 inches",
     "name": "Vivo X200 Pro",
-    "price": "Rs 278,499"
+    "price": "Rs 278,499",
+    "ram": "16GB + 16GB EXPANDABLE RAM (LPDDR5X RAM)"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
     "name": "Vivo Y200 4G",
-    "price": "Rs 52,499"
+    "price": "Rs 52,499",
+    "ram": "8 GB"
   }
 ]
