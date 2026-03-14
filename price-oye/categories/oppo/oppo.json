@@ -1,66 +1,130 @@
 [
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "7000 mAh",
+    "display": "6.75",
     "name": "Oppo A6",
-    "price": "Rs 55,699"
+    "price": "Rs 55,699",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "7000 mAh",
+    "display": "6.75 inches",
     "name": "Oppo A6s",
-    "price": "Rs 68,499"
+    "price": "Rs 68,499",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
     "name": "OPPO Reno 15",
-    "price": "Rs 159,999"
+    "price": "Rs 159,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.59 inches",
     "name": "Oppo Reno 15F",
-    "price": "Rs 114,299"
+    "price": "Rs 114,299",
+    "ram": "8GB"
   },
   {
+    "back_camera": "200MP",
+    "battery": "6200 mAh",
+    "display": "6.32 inches",
     "name": "Oppo Reno 15 Pro",
-    "price": "Rs 229,999"
+    "price": "Rs 229,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "13MP",
+    "battery": "6500 mAh",
+    "display": "6.75 inches",
     "name": "Oppo A6X",
-    "price": "Rs 29,299"
+    "price": "Rs 29,299",
+    "ram": "6 GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "7000 mAh",
+    "display": "6.57 inches",
     "name": "Oppo A6 Pro",
-    "price": "Rs 83,499"
+    "price": "Rs 83,499",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "8 MP + AI",
+    "battery": "5100 mAh",
+    "display": "6.67",
     "name": "Oppo A5i",
-    "price": "Rs 27,999"
+    "price": "Rs 27,999",
+    "ram": "4GB"
   },
   {
+    "back_camera": "Wide angle 50 MP + Ultra-wide angle 8MP + Telephoto 50 MP",
+    "battery": "5800 mAh",
+    "display": "6.83 inches",
     "name": "Oppo Reno 13 Pro",
-    "price": "Rs 146,499"
+    "price": "Rs 146,499",
+    "ram": "12GB LPDDR5X"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5600 mAh",
+    "display": "6.59 Inches",
     "name": "Oppo Reno 13",
-    "price": "Rs 118,499"
+    "price": "Rs 118,499",
+    "ram": "12 GB LPDDR5X"
   },
   {
+    "back_camera": "50 MP + 8MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.67 inches",
     "name": "Oppo Reno 12F 5G",
-    "price": "Rs 69,999"
+    "price": "Rs 69,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "6500 mAh",
+    "display": "6.75 inches",
     "name": "Oppo A6K",
-    "price": "Rs 48,200"
+    "price": "Rs 48,200",
+    "ram": "4/6/8GB"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "6000 mAh",
+    "display": "6.67 inches",
     "name": "Oppo A5",
-    "price": "Rs 39,799"
+    "price": "Rs 39,799",
+    "ram": "6 GB"
   },
   {
+    "back_camera": "50MP + 8MP + 2MP",
+    "battery": "6000 mAh",
+    "display": "6.57 inches",
     "name": "Oppo Reno 14F 5G",
-    "price": "Rs 94,999"
+    "price": "Rs 94,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "32MP; f/1.8",
+    "battery": "6000 mAh",
+    "display": "6.67",
     "name": "Oppo A5x",
-    "price": "Rs 29,999"
+    "price": "Rs 29,999",
+    "ram": "4GB"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5800 mAh",
+    "display": "6.67",
     "name": "Oppo A5 Pro",
-    "price": "Rs 50,499"
+    "price": "Rs 50,499",
+    "ram": "8GB"
   }
 ]
