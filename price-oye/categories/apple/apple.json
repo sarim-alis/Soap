@@ -1,54 +1,106 @@
 [
   {
+    "back_camera": "48 + 48 + 48 MP",
+    "battery": "4832 mAh",
+    "display": "6.9 inches",
     "name": "Apple Iphone 17 Pro Max",
-    "price": "Rs 527,999"
+    "price": "Rs 527,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "48 MP",
+    "battery": "3149 mAh",
+    "display": "6.5 inches",
     "name": "Apple Iphone 17 Air",
-    "price": "Rs 414,999"
+    "price": "Rs 414,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "48 + 48 + 48 MP",
+    "battery": "3988 mAh",
+    "display": "6.3 inches",
     "name": "Apple Iphone 17 Pro",
-    "price": "Rs 497,999"
+    "price": "Rs 497,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "48MP + 12MP Ultra Wide",
+    "battery": "3561 mAh",
+    "display": "6.1",
     "name": "Apple iPhone 16",
-    "price": "Rs 308,999"
+    "price": "Rs 308,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "48MP + 48MP + 12 MP",
+    "battery": "4676 mAh",
+    "display": "6.9 Inches",
     "name": "Apple iPhone 16 Pro Max",
-    "price": "Rs 521,999"
+    "price": "Rs 521,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "48 MP + 12 MP",
+    "battery": "3349 mAh",
+    "display": "6.1 Inches",
     "name": "Apple iPhone 15",
-    "price": "Rs 266,499"
+    "price": "Rs 266,499",
+    "ram": "6 GB"
   },
   {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "327912.68 mAh",
+    "display": "6.1 inches",
     "name": "Apple iPhone 14",
-    "price": "Rs 183,999"
+    "price": "Rs 183,999",
+    "ram": "6 GB"
   },
   {
+    "back_camera": "48 + 48 MP",
+    "battery": "3692 mAh",
+    "display": "6.3 inches",
     "name": "Apple Iphone 17",
-    "price": "Rs 387,999"
+    "price": "Rs 387,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "48 MP",
+    "battery": "4005 mAh",
+    "display": "6.1 inch",
     "name": "Apple iPhone 16e",
-    "price": "Rs 254,999"
+    "price": "Rs 254,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "48MP + 12MP",
+    "battery": "4600 mAh",
+    "display": "6.7 Inches",
     "name": "Apple iPhone 16 Plus",
-    "price": "Rs 327,999"
+    "price": "Rs 327,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "48MP + 48MP + 12MP",
+    "battery": "3577 mAh",
+    "display": "6.3 Inches",
     "name": "Apple iPhone 16 Pro",
-    "price": "Rs 366,999"
+    "price": "Rs 366,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "48 MP + 12 MP + 12 MP",
+    "battery": "4422 mAh",
+    "display": "6.7 Inches",
     "name": "Apple iPhone 15 Pro Max",
-    "price": "Rs 392,000"
+    "price": "Rs 392,000",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "12 MP + 12MP",
+    "battery": "3240 mAh",
+    "display": "6.1 Inches",
     "name": "Apple iPhone 13",
-    "price": "Rs 167,499"
+    "price": "Rs 167,499",
+    "ram": "4GB"
   }
 ]
