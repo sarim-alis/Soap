@@ -9,7 +9,7 @@ import time
 
 def scrape_priceoye_by_category():
 
-    url = "https://priceoye.pk/mobiles/vivo"
+    url = "https://priceoye.pk/mobiles/tecno"
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get(url)

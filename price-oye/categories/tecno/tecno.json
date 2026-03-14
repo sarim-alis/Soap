@@ -1,46 +1,90 @@
 [
   {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "5200 mAh",
+    "display": "6.78 inches",
     "name": "Tecno Camon 40 Pro",
-    "price": "Rs 64,999"
+    "price": "Rs 64,999",
+    "ram": "16 GB (8GB + 8GB EXTENDED)"
   },
   {
+    "back_camera": "13MP",
+    "battery": "5000 mAh",
+    "display": "120Hz 6.75'' Dot Notch Screen",
     "name": "Tecno Spark Go 3",
-    "price": "Rs 25,300"
+    "price": "Rs 25,300",
+    "ram": "4GB (4+4 EXTENDABLE)"
   },
   {
+    "back_camera": "50 MP + AI",
+    "battery": "5200 mAh",
+    "display": "6.6 inches",
     "name": "Tecno spark 40",
-    "price": "Rs 37,600"
+    "price": "Rs 37,600",
+    "ram": "6 GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "5200 mAh",
+    "display": "6.78 inches",
     "name": "Tecno Spark 40 Pro Plus",
-    "price": "Rs 60,400"
+    "price": "Rs 60,400",
+    "ram": "8GB + 8GB EXTENDED RAM"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "5200 mAh",
+    "display": "6.78''",
     "name": "Tecno Spark 40 pro",
-    "price": "Rs 50,700"
+    "price": "Rs 50,700",
+    "ram": "8GB + 8GB EXTENDED RAM"
   },
   {
+    "back_camera": "13 MP",
+    "battery": "6000 mAh",
+    "display": "6.67''",
     "name": "Tecno Spark 40C",
-    "price": "Rs 29,799"
+    "price": "Rs 29,799",
+    "ram": "4 GB/8 GB"
   },
   {
+    "back_camera": "13MP",
+    "battery": "5000 mAh",
+    "display": "6.67'' Hole Screen",
     "name": "Tecno Spark Go 2",
-    "price": "Rs 25,799"
+    "price": "Rs 25,799",
+    "ram": "4GB"
   },
   {
+    "back_camera": "108 MP",
+    "battery": "5000 mAh",
+    "display": "6.78 inches",
     "name": "Tecno SPARK 30 Pro",
-    "price": "Rs 46,999"
+    "price": "Rs 46,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "108MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.78",
     "name": "Tecno Spark 20 Pro Plus",
-    "price": "Rs 59,999"
+    "price": "Rs 59,999",
+    "ram": "16GB (8GB + 8GB EXTENDABLE RAM)"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "7000 mAh",
+    "display": "6.78 Inches",
     "name": "Tecno Pova 6 Neo",
-    "price": "Rs 45,999"
+    "price": "Rs 45,999",
+    "ram": "16GB (8GB+ 8GB EXTENDED RAM)"
   },
   {
+    "back_camera": "50MP + 2MP AI Cam",
+    "battery": "5000 mAh",
+    "display": "6.78 Inches",
     "name": "Tecno Camon 30",
-    "price": "Rs 49,999"
+    "price": "Rs 49,999",
+    "ram": "24GB RAM (12GB+12GB EXTENDED)"
   }
 ]
