@@ -1,74 +1,146 @@
 [
   {
+    "back_camera": "50MP",
+    "battery": "7000 mAh",
+    "display": "6.8 Inches",
     "name": "Realme C85 Pro",
-    "price": "Rs 52,999"
+    "price": "Rs 52,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "7000 mAh",
+    "display": "6.8 inches",
     "name": "Realme C85",
-    "price": "Rs 47,999"
+    "price": "Rs 47,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50MP Selfie AI Camera",
+    "battery": "7000 mAh",
+    "display": "6.57inch",
     "name": "Realme 15T 5G",
-    "price": "Rs 78,999"
+    "price": "Rs 78,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50MP Sony IMX896 OIS Camera",
+    "battery": "7000 mAh",
+    "display": "6.8 inches",
     "name": "Realme 15 pro",
-    "price": "Rs 141,499"
+    "price": "Rs 141,499",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "13 MP",
+    "battery": "6300 mAh",
+    "display": "6.74 Inches",
     "name": "Realme Note 70",
-    "price": "Rs 31,199"
+    "price": "Rs 31,199",
+    "ram": "4GB /6GB"
   },
   {
+    "back_camera": "50 MP + 8 MP",
+    "battery": "7000 mAh",
+    "display": "6.8 Inches",
     "name": "Realme GT 7T",
-    "price": "Rs 164,999"
+    "price": "Rs 164,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP + 2MP",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
     "name": "Realme 14T 5G",
-    "price": "Rs 67,999"
+    "price": "Rs 67,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP + 2MP OIS",
+    "battery": "6000 mAh",
+    "display": "6.67 Inches",
     "name": "Realme 14 5G",
-    "price": "Rs 85,499"
+    "price": "Rs 85,499",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6300 mAh",
+    "display": "6.72 Inches",
     "name": "Realme C71",
-    "price": "Rs 36,499"
+    "price": "Rs 36,499",
+    "ram": "6/8 GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "5600 mAh",
+    "display": "6.67",
     "name": "Realme C75x",
-    "price": "Rs 37,999"
+    "price": "Rs 37,999",
+    "ram": "6/8 GB"
   },
   {
+    "back_camera": "8MP + Flicker",
+    "battery": "5000 mAh",
+    "display": "6.74 Inch",
     "name": "Realme Note 60x",
-    "price": "Rs 20,999"
+    "price": "Rs 20,999",
+    "ram": "4/8GB RAM (3GB+5GB EXPANDABLE DYNAMIC RAM)"
   },
   {
+    "back_camera": "50 MP + 2 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
     "name": "Realme C25Y",
-    "price": "Rs 23,499"
+    "price": "Rs 23,499",
+    "ram": "4 GB"
   },
   {
+    "back_camera": "50MP + 8MP",
+    "battery": "7000 mAh",
+    "display": "6.77inch",
     "name": "Realme 15 5G",
-    "price": "Rs 105,499"
+    "price": "Rs 105,499",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP",
+    "battery": "6000 mAh",
+    "display": "6.72 Inches",
     "name": "Realme C75",
-    "price": "Rs 38,499"
+    "price": "Rs 38,499",
+    "ram": "8 GB + 16GB DYNAMIC RAM"
   },
   {
+    "back_camera": "50MP Sony LYT-600 OIS Camera + 8MP ultra-wide",
+    "battery": "5000 mAh",
+    "display": "6.67inch",
     "name": "Realme 13+ 5G",
-    "price": "Rs 75,999"
+    "price": "Rs 75,999",
+    "ram": "12 GB +14 GB DYNAMIC RAM"
   },
   {
+    "back_camera": "32 MP",
+    "battery": "5000 mAh",
+    "display": "6.74",
     "name": "Realme Note 60",
-    "price": "Rs 21,999"
+    "price": "Rs 21,999",
+    "ram": "4GB + UP TO 8GB DYNAMIC RAM"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2MP",
+    "battery": "5000 mAh",
+    "display": "6.7 inches",
     "name": "Realme 12+ 5G",
-    "price": "Rs 66,499"
+    "price": "Rs 66,499",
+    "ram": "16GB (8+8) RAM"
   },
   {
+    "back_camera": "8 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
     "name": "Realme C11 2021",
-    "price": "Rs 18,299"
+    "price": "Rs 18,299",
+    "ram": "4GB"
   }
 ]
