@@ -1,134 +1,266 @@
 [
   {
+    "back_camera": "200.0 MP + 50.0 MP + 50.0 MP + 10.0 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 inches",
     "name": "Samsung Galaxy S26 Ultra",
-    "price": "Rs 489,999"
+    "price": "Rs 489,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50MP",
+    "battery": "4900 mAh",
+    "display": "169.1mm",
     "name": "Samsung Galaxy S26 Plus",
-    "price": "Rs 364,999"
+    "price": "Rs 364,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50.0 MP + 10.0 MP + 12.0 MP",
+    "battery": "4300 mAh",
+    "display": "159.3mm (6.3",
     "name": "Samsung Galaxy S26",
-    "price": "Rs 299,999"
+    "price": "Rs 299,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 5 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy A17",
-    "price": "Rs 51,500"
+    "price": "Rs 51,500",
+    "ram": "6GB / 8GB"
   },
   {
+    "back_camera": "50MP + 12MP + 5MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy A56 5G",
-    "price": "Rs 113,999"
+    "price": "Rs 113,999",
+    "ram": "8GB / 12GB RAM"
   },
   {
+    "back_camera": "50 MP + 8 MP + 12 MP",
+    "battery": "4900 mAh",
+    "display": "6.7 inches",
     "name": "Samsung Galaxy S25 FE",
-    "price": "Rs 179,999"
+    "price": "Rs 179,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy A07",
-    "price": "Rs 25,700"
+    "price": "Rs 25,700",
+    "ram": "4GB/6GB"
   },
   {
+    "back_camera": "50.0 MP + 8.0 MP + 5.0 MP",
+    "battery": "5000 mAh",
+    "display": "6.7",
     "name": "Samsung Galaxy A36 5G",
-    "price": "Rs 99,699"
+    "price": "Rs 99,699",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 inches",
     "name": "Samsung Galaxy A26 5G",
-    "price": "Rs 71,999"
+    "price": "Rs 71,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "200.0 MP + 50.0 MP + 50.0 MP + 10.0 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 Inches",
     "name": "Samsung Galaxy S25 Ultra",
-    "price": "Rs 352,999"
+    "price": "Rs 352,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50MP + 10MP + 12MP",
+    "battery": "4000 mAh",
+    "display": "6.2 Inches",
     "name": "Samsung Galaxy S25",
-    "price": "Rs 259,999"
+    "price": "Rs 259,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 12MP + 8MP",
+    "battery": "4700 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy S24 FE",
-    "price": "Rs 166,999"
+    "price": "Rs 166,999",
+    "ram": "8GB"
   },
   {
+    "back_camera": "12 MP + 50 MP + 10 MP",
+    "battery": "4400 mAh",
+    "display": "7.6 inches",
     "name": "Samsung Galaxy Z Fold 5",
-    "price": "Rs 325,999"
+    "price": "Rs 325,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 12 MP",
+    "battery": "4000 mAh",
+    "display": "6.7 inches",
     "name": "Samsung Galaxy Z Flip 6",
-    "price": "Rs 304,999"
+    "price": "Rs 304,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "12 MP + 50 MP + 10 MP",
+    "battery": "4400 mAh",
+    "display": "7.6 inches",
     "name": "Samsung Galaxy Z Fold 6",
-    "price": "Rs 485,999"
+    "price": "Rs 485,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
     "name": "Samsung Galaxy S24 Ultra (12GB-1TB)",
-    "price": "Rs 335,999"
+    "price": "Rs 335,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
     "name": "Samsung Galaxy A35 5G",
-    "price": "Rs 83,999"
+    "price": "Rs 83,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP + 12 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
     "name": "Samsung Galaxy A55 5G",
-    "price": "Rs 94,500"
+    "price": "Rs 94,500",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
     "name": "Samsung Galaxy S24 Ultra",
-    "price": "Rs 316,999"
+    "price": "Rs 316,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "50 MP + 10 MP + 12 MP",
+    "battery": "4000 mAh",
+    "display": "6.2 Inches",
     "name": "Samsung Galaxy S24",
-    "price": "Rs 208,999"
+    "price": "Rs 208,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.5 Inches",
     "name": "Samsung Galaxy A25",
-    "price": "Rs 59,999"
+    "price": "Rs 59,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "50 MP + 8 MP + 12 MP",
+    "battery": "4500 mAh",
+    "display": "6.4 inches",
     "name": "Samsung Galaxy S23 FE",
-    "price": "Rs 119,499"
+    "price": "Rs 119,499",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.7 inches",
     "name": "Samsung Galaxy Z Flip 5",
-    "price": "Rs 224,999"
+    "price": "Rs 224,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "12MP + 50MP + 5MP",
+    "battery": "5000 mAh",
+    "display": "6.4 inches",
     "name": "Samsung Galaxy A54 5G",
-    "price": "Rs 79,500"
+    "price": "Rs 79,500",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "200 MP + 10 MP + 10 MP + 12 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 inches",
     "name": "Samsung Galaxy S23 Ultra",
-    "price": "Rs 269,999"
+    "price": "Rs 269,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "12 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy Z Flip 4",
-    "price": "Rs 184,999"
+    "price": "Rs 184,999",
+    "ram": "8GB RAM"
   },
   {
+    "back_camera": "50 MP + 10 MP + 12 MP",
+    "battery": "3700 mAh",
+    "display": "6.1 inches",
     "name": "Samsung Galaxy S22",
-    "price": "Rs 170,999"
+    "price": "Rs 170,999",
+    "ram": "8 GB"
   },
   {
+    "back_camera": "12 MP + 12 MP + 08 MP",
+    "battery": "4500 mAh",
+    "display": "6.4 Inches",
     "name": "Samsung Galaxy S21 FE",
-    "price": "Rs 99,999"
+    "price": "Rs 99,999",
+    "ram": "6/8 GB"
   },
   {
+    "back_camera": "200 MP + 50 MP + 50 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.9 Inches",
     "name": "Samsung Galaxy S25 Ultra (12GB-256GB)",
-    "price": "Rs 339,999"
+    "price": "Rs 339,999",
+    "ram": "12GB"
   },
   {
+    "back_camera": "50 MP + 2 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy A06",
-    "price": "Rs 22,499"
+    "price": "Rs 22,499",
+    "ram": "4/6 GB"
   },
   {
+    "back_camera": "200 MP + 50 MP + 12 MP + 10 MP",
+    "battery": "5000 mAh",
+    "display": "6.8 Inches",
     "name": "Samsung Galaxy S24 Ultra (12GB-256GB)",
-    "price": "Rs 314,999"
+    "price": "Rs 314,999",
+    "ram": "12 GB"
   },
   {
+    "back_camera": "48 MP + 8 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.6 Inches",
     "name": "Samsung Galaxy A34",
-    "price": "Rs 68,199"
+    "price": "Rs 68,199",
+    "ram": "6/8 GB"
   },
   {
+    "back_camera": "108 MP + 12 MP + 5 MP + 5 MP",
+    "battery": "5000 mAh",
+    "display": "6.7 Inches",
     "name": "Samsung Galaxy A73",
-    "price": "Rs 91,999"
+    "price": "Rs 91,999",
+    "ram": "8 GB"
   }
 ]
