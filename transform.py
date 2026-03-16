@@ -2,9 +2,15 @@ import pandas as pd
 
 df = pd.read_csv("mobile_prices.csv")
 
-# Fix types
-df['battery'] = df['battery'].astype(int)
-df['price'] = df['price'].astype(str).str.replace(',', '').astype(int)
+# ── Clean all columns that might have letters like '32M', '128GB', '6.1"' ──
+def clean_numeric(series):
+    return series.astype(str).str.replace(r'[^\d.]', '', regex=True).astype(float)
+
+df['back_camera'] = clean_numeric(df['back_camera']).astype(int)
+df['battery']     = clean_numeric(df['battery']).astype(int)
+df['display']     = clean_numeric(df['display'])
+df['ram']         = clean_numeric(df['ram']).astype(int)
+df['price']       = df['price'].astype(str).str.replace(',', '').str.replace(r'[^\d]', '', regex=True).astype(int)
 
 # Extract brand
 df['brand'] = df['name'].str.extract(r'^(Apple|Samsung|Google|OnePlus)', expand=False).fillna('Other')
@@ -32,3 +38,5 @@ df_model.to_csv("mobile_prices_transformed.csv", index=False)
 
 print("✅ Done! Saved as mobile_prices_transformed.csv")
 print(df_model.head())
+print("\nData types:")
+print(df_model.dtypes)

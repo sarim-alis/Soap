@@ -1,14 +1,19 @@
 from flask import Flask, jsonify, request
+from dataset.scraper import scrape_priceoye_by_category
 import pickle
 import pandas as pd
 
 app = Flask(__name__)
 
-# Load model once at startup.
+# Load model once at startup
 with open("model.pkl", "rb") as f:
     model = pickle.load(f)
 
-# Predict.
+# @app.route("/mobiles", methods=["GET"])
+# def get_mobiles():
+#     data = scrape_priceoye_by_category()
+#     return jsonify(data)
+
 @app.route("/predict", methods=["POST"])
 def predict():
     data = request.json
