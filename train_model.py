@@ -6,11 +6,6 @@ import pickle
 
 df = pd.read_csv("mobile_prices_transformed.csv")
 
-# Create label.
-median_price = df['price'].median()
-df['label'] = (df['price'] > median_price).astype(int)
-
-# Features and target.
 X = df[['back_camera', 'battery', 'display', 'ram', 'brand_encoded', 'tier_encoded']]
 y = df['label']
 
