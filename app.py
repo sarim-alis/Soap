@@ -58,10 +58,12 @@ def score():
     return jsonify({
         "phone": data.get("name", "Unknown"),
         "score": round(float(predicted_score), 2),
-        "rating": "Excellent" if predicted_score >= 80 else
-                  "Good"      if predicted_score >= 60 else
-                  "Average"   if predicted_score >= 40 else
-                  "Budget"
+        "rating": "Excellent"     if predicted_score >= 90 else
+                  "Very Good"     if predicted_score >= 80 else
+                  "Good"          if predicted_score >= 70 else
+                  "Average"       if predicted_score >= 60 else
+                  "Below Average" if predicted_score >= 50 else
+                  "Poor"
     })
 
 if __name__ == "__main__":

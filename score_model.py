@@ -6,17 +6,23 @@ import pickle
 
 df = pd.read_csv("mobile_prices_transformed.csv")
 
-# Generate score from specs (0-100).
+# Generate score from specs (0-100) — proper weighted formula.
 df['score'] = (
-    (df['ram']          / df['ram'].max()          * 30) +
-    (df['back_camera']  / df['back_camera'].max()  * 25) +
-    (df['battery']      / df['battery'].max()      * 20) +
-    (df['display']      / df['display'].max()      * 10) +
-    (df['tier_encoded'] / df['tier_encoded'].max() * 15)
+    (df['display']      / df['display'].max()      * 20) +  # Display      20%
+    (df['battery']      / df['battery'].max()      * 20) +  # Battery      20%
+    (df['back_camera']  / df['back_camera'].max()  * 20) +  # Camera       20%
+    (df['ram']          / df['ram'].max()          * 25) +  # Performance  25%
+    (df['tier_encoded'] / df['tier_encoded'].max() * 15)    # Build/Value  15%
 ).round(2)
+
+# Normalize to 40-100 — no phone scores below 40.
+df['score'] = 40 + (df['score'] / df['score'].max() * 60)
+df['score'] = df['score'].round(2)
 
 print("Score preview: 🎖️")
 print(df[['ram', 'back_camera', 'battery', 'display', 'tier_encoded', 'score']].head(10))
+print(f"\nMin score: {df['score'].min()}")
+print(f"Max score: {df['score'].max()}")
 
 # Features and target.
 X = df[['back_camera', 'battery', 'display', 'ram', 'brand_encoded', 'tier_encoded']]
