@@ -66,7 +66,7 @@ df['tier_encoded'] = df['tier'].map(tier_map).astype(int)
 df['label'] = df.groupby('brand_encoded')['price'] \
                 .transform(lambda x: (x > x.median()).astype(int))
 
-# Save
+# Save.
 df_model = df[['back_camera', 'battery', 'display', 'ram', 'brand_encoded', 'tier_encoded', 'price', 'label']]
 df_model.to_csv("mobile_prices_transformed.csv", index=False)
 
