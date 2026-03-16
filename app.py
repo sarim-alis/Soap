@@ -8,6 +8,12 @@ app = Flask(__name__)
 with open("model.pkl", "rb") as f:
     model = pickle.load(f)
 
+# Home.
+@app.route("/", methods=["GET"])
+def home():
+    return jsonify({"message": "Homepage 🐯🏡⭐"})
+
+
 # Predict.
 @app.route("/predict", methods=["POST"])
 def predict():
@@ -32,3 +38,5 @@ def predict():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+    
